@@ -1,1 +1,0 @@
-{"parent":null,"pid":3519,"argv":["/usr/bin/node","/home/ubuntu/animal/node_modules/.bin/mocha","--exit"],"execArgv":[],"cwd":"/home/ubuntu/animal","time":1692629934390,"ppid":3508,"coverageFilename":"/home/ubuntu/animal/.nyc_output/480e4434-e465-4fe0-8dcd-0b4febc089ed.json","externalId":"","uuid":"480e4434-e465-4fe0-8dcd-0b4febc089ed","files":["/home/ubuntu/animal/app.js"]}
